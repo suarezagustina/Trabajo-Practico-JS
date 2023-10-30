@@ -15,5 +15,5 @@ if
 {
     document.write(`El número 2 (${numero2}) es mayor que el número 3 (${numero3}) y 1 (${numero1})` )
 }else{
-    document.write(`Los numeros ingresados son iguales (${numero2})` );  
+    document.write(`Los numeros ingresados son iguales (${numero2})` );   
 }
